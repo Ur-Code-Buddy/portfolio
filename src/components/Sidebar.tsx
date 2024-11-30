@@ -106,7 +106,7 @@ const SidebarHeader = () => {
   return (
     <div className="flex space-x-2">
       <Image
-        src="https://media.licdn.com/dms/image/v2/C5603AQHsLAu2OHfa9A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1626888048690?e=2147483647&v=beta&t=yq701oqHB4LEKAXL96ad3-luWZCjSNxHJ2dFGhuk_ic"
+        src="https://media.licdn.com/dms/image/v2/D5603AQG_XUErxCkKgg/profile-displayphoto-shrink_800_800/B56ZNK292pGsAc-/0/1732127744825?e=1738195200&v=beta&t=8fc1p-XT6GXuUtIxj_KNBHrdvpJSbNOPAoG56Uo8r88"
         alt="Avatar"
         height="40"
         width="40"

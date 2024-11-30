@@ -52,7 +52,7 @@ export const products = [
     href: "https://pondyretreats.in/",
     title: "Pondy Retreats",
     description:
-      "A client project for a retreat business, built with a custom admin panel and handling over 100+ concurrent users.",
+      "A client project for a retreat business, built with a custom admin panel and handling over 50+ concurrent users.",
     thumbnail: "/images/pondyretreats3.png",
     images: [
       "/images/pondyretreats1.png",
