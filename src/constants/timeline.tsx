@@ -26,7 +26,7 @@ export const timeline = [
     company: "Bachelor's Degree",
     title: "Computer Science, Mathematics, and Electronics Graduate",
     date: "2024",
-    description: "Studied computer science, mathematics, and electronics, with a focus on engineering and robotics.",
+    description: "Studied Computer Science Maths & Advance Electronics",
     responsibilities: [
       "Worked with microcontrollers and Raspberry Pis",
       "Completed coursework in data structures, algorithms, and AI",
@@ -38,9 +38,8 @@ export const timeline = [
     company: "Designfold",
     title: "Tech Consultant & Design Intern",
     date: "2023",
-    description: "Worked as a tech consultant, focusing on drone code and simplifying the complexity of drone technology for farmers.",
+    description: "Worked as a tech consultant and content writer.",
     responsibilities: [
-      "Assisted with drone code development and system integration",
       "Simplified drone technology for farmers by creating easy-to-understand explanations",
       "Collaborated on understanding how drones could be used in agricultural settings",
     ],
