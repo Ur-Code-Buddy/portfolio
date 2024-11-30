@@ -18,12 +18,6 @@ export const TechStack = () => {
         className: "h-10 w-10",
       },
       {
-        title: "Figma",
-        src: "/images/logos/figma.png",
-  
-        className: "h-10 w-8",
-      },
-      {
         title: "Node",
         src: "/images/logos/node.png",
   

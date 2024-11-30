@@ -4,10 +4,10 @@ export const products = [
   //   title: "Bedium",
   //   description:
   //     "A blogging website to craft your own story.",
-  //   thumbnail: "/images/sidefolio-aceternity.png",
+  //   thumbnail: "/images/",
   //   images: [
-  //     "/images/sidefolio-aceternity.png",
-  //     "/images/sidefolio-aceternity-2.png",
+  //     "/images/",
+  //     "/images/",
   //   ],
   //   stack: ["Nextjs", "Tailwindcss"],
   //   slug: "Bedium",
